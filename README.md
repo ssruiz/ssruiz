@@ -4,7 +4,7 @@
 #### I'm a Full-Stack Developer based in Paraguay.
 
 - 🏢 I'm currently working full-time with awesome devs at **Willdom**, using Java, React, Camunda among others
-- ⚙️ I'm learning VUE and a love it!.
+- ⚙️ I'm learning VUE and I'm loving it!.
 - 🌍 I support and volunteer with: <a href="https://github.com/GirlsCodePy/girls-code-web">**Girls Code Py**</a>
 - 🌱 Learning more about and studying: **Open Source, VUE, SSO**
 - 📫 Reach me asap: ssruiz6@gmail.com
