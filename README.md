@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hi, I'm Samuel 👋
+---
 
-<!--
-**ssruiz/ssruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer based in Paraguay.
 
-Here are some ideas to get you started:
+- 🏢 I'm currently working full-time with awesome devs at **Willdom**
+- ⚙️ I currently learning Vue.
+- 🌍 I support and volunteer with: **Girls Code Py**
+- 🌱 Learning more about and studying: **Open Source, VUE, SSO**
+- 📫 Reach me asap: ssruiz6@gmail.com
+- 💜 Interests: huge Pink Floyd fan,🐈‍s and 🐸s
+- 😄 Passionate about frontend tecnologies and endless learner of this awesome world
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Skills
+
+## Markup Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,materialui)](https://skillicons.dev)
+
+## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,ts&perline=4)](https://skillicons.dev)
+
+## Frameworks
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nestjs,express,react,vue)](https://skillicons.dev)
+
+## Databases
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+
+## IDEs and Tools
+[![My Skills](https://skillicons.dev/icons?i=vite,git,github,visualstudio,vscode,docker)](https://skillicons.dev)
+
+
+#### Find me around the web 🌎:
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/ssruiz6/">LinkedIn</a>
+- 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/im_time">Spotify</a>
+
+---
+
+⭐️ From [MillyCodes](https://github.com/MillyCodes)
